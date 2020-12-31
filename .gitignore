@@ -1,1 +1,24 @@
-/tmp
+/.idea
+ #.kdev4
+ #*.kdev4
+ #*.php-tmp
+ #phpDocumentor.phar
+ #~$Excel Export.xlsx
+ #vendor
+ #.package.json
+ /bootstrap/compiled.php
+ /vendor
+ /node_modules
+ composer.phar
+ composer.lock
+ .env.*.php
+ .env.php
+ .DS_Store
+ workspace.xml
+ Thumbs.db
+.idea/.gitignore
+.idea/git_test.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+GlobalTeams/

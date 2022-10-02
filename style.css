@@ -61,4 +61,5 @@ p.center {
     text-align: center;
     color: red;
 	font-size: 20px;
+	line-height: 120%;
 }
